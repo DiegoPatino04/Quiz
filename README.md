@@ -46,6 +46,7 @@ These features are for practice and preparation for evaluation. Please create th
  `animal/category/{categoty}`
 
 2. List of animals whose names have less than n letters
+
  `animal/name-length/{numberOfLetters}`
 
 
